@@ -1,0 +1,40 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0e7e12;
+}
+.card{
+    background-color: white;
+    width: 27%;
+    height: 469px;
+    margin: 2% auto;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.top, .body, .bottom{
+    font-size: 6em;
+}
+.top, .bottom{
+    padding: 3%;
+    color: red;
+}
+.body{
+    margin-top: 20%;
+    margin-left: 43%;
+}
+.bottom{
+    color: red;
+    margin-top: 19%;
+    float: right;
+    rotate: 180deg;
+}
+.button{
+    position: absolute;
+    right:2%;
+    top: 90%;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
