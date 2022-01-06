@@ -7,10 +7,10 @@ body{
 }
 .card{
     background-color: white;
-    width: 27%;
-    height: 469px;
+    width: 24%;
+    height: 546px;
     margin: 2% auto;
-    border: 1px solid black;
+    border: 10px solid black;
     border-radius: 20px;
 }
 .top, .body, .bottom{
